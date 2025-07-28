@@ -1,0 +1,3 @@
+[submodule "components/esp32-component-bmi270"]
+	path = components/esp32-component-bmi270
+	url = git@github.com:bxhsiman/esp32-component-bmi270.git
